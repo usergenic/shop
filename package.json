@@ -6,7 +6,7 @@
     "The Polymer Authors"
   ],
   "scripts": {
-    "bundle": "node ../polymer-bundler/lib/bin/polymer-bundler.js --out-dir bundled src/shop-app.js",
+    "bundle": "node ../polymer-bundler/lib/bin/polymer-bundler.js --out-dir bundled --shell src/shop-app.js src/shop-app.js",
     "build": "npx babel bundled --out-dir build"
   },
   "dependencies": {
