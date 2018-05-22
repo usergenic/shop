@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "polymer-cli": "^1.7.1",
+    "prpl-server": "^1.1.0",
+    "renamer": "^0.6.1",
+    "replace": "^0.3.0",
+    "yarn": "^1.6.0"
+  }
+}
